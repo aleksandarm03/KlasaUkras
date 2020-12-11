@@ -1,0 +1,60 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Ukras
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        Random r = new Random();
+        Graphics g;
+        Ukras[] u = new Ukras[100];
+        int br = 0;
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            BackColor = Color.White;
+            Width = 1000;
+            Height = 800;
+
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            g = CreateGraphics();
+        }
+
+        private void Form1_MouseClick(object sender, MouseEventArgs e)
+        {
+            int x = e.X;
+            int y = e.Y;
+            int a = r.Next(50, 150);
+            Color b1 = Color.FromArgb(r.Next(255), r.Next(255), r.Next(255));
+            Color b2 = Color.FromArgb(r.Next(255), r.Next(255), r.Next(255));
+            Color b3 = Color.FromArgb(r.Next(255), r.Next(255), r.Next(255));
+            u[br] = new Ukras(x, y, a, b1, b2, b3);
+            u[br].Crtaj(g);
+            br++;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+            g.Clear(Color.White);
+            for (int i = 0; i < br; i++)
+            {
+                u[i].Uvecaj();
+                u[i].Crtaj(g);
+            }
+        }
+    }
+}

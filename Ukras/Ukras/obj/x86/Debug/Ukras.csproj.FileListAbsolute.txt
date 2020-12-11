@@ -1,0 +1,17 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\bin\Debug\Ukras.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\bin\Debug\Ukras.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\obj\x86\Debug\Ukras.csprojResolveAssemblyReference.cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\obj\x86\Debug\Ukras.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\obj\x86\Debug\Ukras.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\obj\x86\Debug\Ukras.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\obj\x86\Debug\Ukras.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Ukras\obj\x86\Debug\Ukras.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\bin\Debug\Ukras.exe.config
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\obj\x86\Debug\Ukras.exe
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\obj\x86\Debug\Ukras.pdb
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\bin\Debug\Ukras.exe
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\bin\Debug\Ukras.pdb
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\obj\x86\Debug\Ukras.csprojResolveAssemblyReference.cache
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\obj\x86\Debug\Ukras.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\obj\x86\Debug\Ukras.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Radna površina\Ukras\Ukras\obj\x86\Debug\Ukras.csproj.GenerateResource.Cache
